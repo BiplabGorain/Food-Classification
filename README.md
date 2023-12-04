@@ -5,6 +5,8 @@ Project Description
 This project is the first part of the project RecipeLens.
 This is a project where we trained a model to classify different food images.
 
+Dataset link - https://www.kaggle.com/datasets/l33tc0d3r/indian-food-classification/data
+
 Project developer
 1. Biplab Gorain
 2. Sheela Bhattacharjee
