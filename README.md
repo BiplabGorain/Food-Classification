@@ -1,8 +1,8 @@
-Food Classification / Part 1 of RecipeLence
+Food Classification / Part 1 of RecipeLens
 ==============================
 
 Project Description
-This project is the first part of the project RecipeLence.
+This project is the first part of the project RecipeLens.
 This is a project where we trained a model to classify different food images.
 
 Project developer
